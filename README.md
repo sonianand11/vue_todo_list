@@ -1,34 +1,14 @@
-
-To start server
-npm run serve
-
-This will run on http://localhost:8080/
-
-To start Vue UI
-vue ui
-
-This will run on http://localhost:8000
-
 # vue_todo_list
 
-## Project setup
+## To run server
 ```
-yarn install
+npm run serve
 ```
+This will run on http://localhost:8080/
 
-### Compiles and hot-reloads for development
+### To Run vue ui
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+vue ui
 ```
 
 ### Customize configuration
